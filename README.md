@@ -43,7 +43,8 @@ The calculator layout adjusts gracefully for different screen sizes, ensuring a 
 
 ## 📸 Preview
 
-> _[Include a screenshot or GIF of your calculator interface here]_
+![image](https://github.com/user-attachments/assets/6510a927-7156-453f-b5dc-da95c4397fac)
+
 
 ---
 
