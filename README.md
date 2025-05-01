@@ -51,5 +51,5 @@ The calculator layout adjusts gracefully for different screen sizes, ensuring a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SimpleCalculator.git
+   git clone https://github.com/Bela2002/SimpleCalculator.git
 
